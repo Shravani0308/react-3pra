@@ -1,15 +1,18 @@
 
 import './App.css'
-import Button from './Button'
+// import Button from './Button'
+import Form from './assets/Form';
 
 function App() {
  
 
   return (
     <>
-     <Button/>
-    </>
-  )
+  
+     
+     <Form/>
+   </>
+  );
 }
 
-export default App
+export default App;
